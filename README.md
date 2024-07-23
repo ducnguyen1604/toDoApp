@@ -1,3 +1,5 @@
+#React Native toDoApp
+
 - User Stories:
   1. User can <em>add</em> a task by typing the task name into the typing bar, and press the plus sign to add it.
   2. User can <em>see</em> the registered task shown on the screen.
@@ -10,6 +12,7 @@
   3. State Controll: useState hook
  
 - Install App:
+  Using Expo Cli:
   <code> npx expo install react-dom react-native-web @expo/metro-runtime </code>
   <code> npm run web </code>
   
